@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 authors = [
     {name = "Rathnakara G N", email = "contact@cybersecify.com"},
+    {name = "Ashok S Kamat", email = "contact@cybersecify.com"},
 ]
 dependencies = [
     # Web framework

@@ -18,7 +18,8 @@ Existing commercial tools (Shodan, Censys, AttackSurfaceMapper) are expensive, c
 
 **Stakeholders:**
 - Open source community (contributors, users)
-- Rathnakara G N (creator, Cybersecify)
+- Rathnakara G N (co-creator, Cybersecify)
+- Ashok S Kamat (co-creator, Cybersecify)
 
 ## What
 
